@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test002", "..\Test002\Test002.csproj", "{1E302F37-FD24-4EE6-837C-B5EFC13936FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HutechAppCRMBussiness", "..\hutech-app-crm\HutechAppCRMBussiness\HutechAppCRMBussiness.csproj", "{54264C7C-BF1C-497F-A71B-8A9DBAB558AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HutechAppCRM", "..\hutech-app-crm\HutechAppCRM\HutechAppCRM.csproj", "{9005849D-B76C-49A8-BBFB-AA6C3C7CD4F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1E302F37-FD24-4EE6-837C-B5EFC13936FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E302F37-FD24-4EE6-837C-B5EFC13936FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E302F37-FD24-4EE6-837C-B5EFC13936FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54264C7C-BF1C-497F-A71B-8A9DBAB558AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54264C7C-BF1C-497F-A71B-8A9DBAB558AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54264C7C-BF1C-497F-A71B-8A9DBAB558AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54264C7C-BF1C-497F-A71B-8A9DBAB558AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9005849D-B76C-49A8-BBFB-AA6C3C7CD4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9005849D-B76C-49A8-BBFB-AA6C3C7CD4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9005849D-B76C-49A8-BBFB-AA6C3C7CD4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9005849D-B76C-49A8-BBFB-AA6C3C7CD4F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
